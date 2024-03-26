@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently pursuing my Ph.D in the Beihang University.
+- 🔭 My research interests focus on the domain adaptation, domain generalization, and prompt tuning.
+- 📫 How to reach me: shaodongding@163.com
 <!--
 **dongdongtong/dongdongtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
